@@ -1,6 +1,4 @@
-Here’s a clean, professional **README.md** you can use for your project:
 
----
 
 # 📊 Student Exam Score Prediction
 
